@@ -1,4 +1,8 @@
 # Zomato Bangalore Restaurant Analysis
+## Highlights
+   - Analyzed 51,700+ restaurants across Bangalore
+   - Found table booking availability correlates with restaurants costing ~2.8x more
+   - Identified BTM as the most saturated restaurant market in the city
 ## Business Problem
 If you were advising someone opening a new restaurant in Bangalore, what does the data say about location, pricing, and cuisine choices that correlate with success (measured by rating)?
 ## Dataset
