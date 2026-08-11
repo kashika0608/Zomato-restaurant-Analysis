@@ -12,6 +12,6 @@ Zomato Bangalore Restaurants — Kaggle (https://www.kaggle.com/datasets/himansh
 - Cost and rating show a moderate positive correlation (0.38); restaurants priced above ₹3000 are almost never rated below 3.5.
 ![Cost vs rating](cost_vs_rating.png)
 - The most common cuisines (North Indian, Chinese) are not the highest-rated — niche cuisines like Malaysian and Japanese rate higher on average.
-![Cuisine popularity](cusinine_popularity.png)
+![Cuisine popularity](cuisine_popularity.png)
 - Table booking availability is a strong proxy for price positioning — restaurants offering it cost ~2.8x more on average (₹1,271 vs ₹453).
 ![Table booking vs cost](booking_vs_cost.png)
